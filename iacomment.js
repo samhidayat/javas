@@ -1,4 +1,4 @@
-var disqus_shortname="USERNAME DISQUS";
+var disqus_shortname="infoalya";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
